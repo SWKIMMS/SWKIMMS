@@ -1,44 +1,40 @@
 # Minss
 
-I build focused macOS and AI tools: calm product surfaces, useful automation, and systems that stay readable as they grow.
+AI builder in progress.
+
+I care about calm interfaces, useful automation, and software that feels simple from the outside.
 
 ```txt
-focus      AI products / macOS apps / developer tooling
-principle  make complex things feel calm
-status     building in public, one useful system at a time
+focus      AI products / agents / developer tools
+style      minimal, structured, product-minded
+status     learning in public
 ```
 
 ## Now
 
-- Building `LINK:Todo`, a macOS planner that connects tasks to real calendar time.
-- Exploring practical LLM systems: retrieval, evaluation, automation, and agents.
-- Designing product surfaces where AI feels predictable, inspectable, and useful.
+- Studying how LLM products become reliable, useful, and easy to trust.
+- Exploring agents, retrieval, evaluation, and workflow automation.
+- Building small experiments before turning them into public projects.
 
-## Selected Builds
-
-| Build | Signal |
-| --- | --- |
-| `LINK:Todo` | macOS planner with timelines, project hubs, command palette, and calendar-aware scheduling |
-| `Mochi Pet` | Lightweight AppKit desktop companion with configurable behavior and local packaging |
-| `Gecko Pet` | Standalone macOS desktop companion built around custom character artwork |
-
-## AI Direction
+## Direction
 
 | Track | What I care about |
 | --- | --- |
-| AI tools | Fast prototypes, thoughtful constraints, measurable behavior |
-| Developer experience | Workflows that remove repetition and make iteration easier |
-| Product engineering | Calm UX, strong defaults, and systems that are easy to revisit |
+| AI tools | Practical systems over demos |
+| Agents | Clear goals, visible steps, controlled autonomy |
+| Product | Quiet UX, strong defaults, low friction |
+| Engineering | Readable code, thoughtful constraints, steady iteration |
 
-## Stack
+## Toolbox
 
-`Swift` `SwiftUI` `AppKit` `Python` `TypeScript` `LLMs` `RAG` `Automation`
+`Python` `TypeScript` `React` `Node.js` `LLMs` `RAG` `Automation`
 
-## Operating Notes
+## Notes To Self
 
-- I prefer small surfaces over sprawling feature sets.
-- I like code that explains its decisions through structure, naming, and tests.
-- I document tradeoffs so the next version starts with context.
+- Build small.
+- Make behavior inspectable.
+- Keep the interface quiet.
+- Write things down before they get blurry.
 
 ## Links
 
@@ -49,7 +45,7 @@ Profile setup notes:
 
 1. Create a public repository named exactly `SWKIMMS`.
 2. Put this file at the repository root as `README.md`.
-3. After publishing 2-3 polished projects, turn the Selected Builds rows into repository links.
+3. After publishing 2-3 polished projects, add a `Selected Work` section above Direction.
 4. Keep badges minimal. The strongest signal should be shipped work, clear README files, and good repo descriptions.
 5. Avoid publishing a personal email here unless you intentionally want it public.
 -->
