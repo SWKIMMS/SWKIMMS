@@ -32,9 +32,6 @@ status     learning in public
 ## Notes To Self
 
 - Build small.
-- Make behavior inspectable.
-- Keep the interface quiet.
-- Write things down before they get blurry.
 
 ## Links
 
