@@ -6,6 +6,7 @@
   <a href="https://github.com/SWKIMMS"><img src="https://img.shields.io/badge/GitHub-SWKIMMS-181717?style=for-the-badge&logo=github" alt="GitHub profile badge" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20Products-2563EB?style=for-the-badge" alt="AI products badge" />
   <img src="https://img.shields.io/badge/Mode-Learning%20in%20Public-22C55E?style=for-the-badge" alt="Learning in public badge" />
+  <img src="https://img.shields.io/badge/Achievements-YOLO%20%2B%20Quickdraw-F59E0B?style=for-the-badge" alt="GitHub achievements badge" />
 </p>
 
 ## About
@@ -59,9 +60,9 @@ shipping   experiments first, reusable systems next
 
 | Achievement | Status |
 | --- | --- |
-| Quickdraw | Triggered with a GitHub issue opened and closed in 16 seconds. |
-| YOLO | Triggered with a documentation-only pull request merged without review. |
-| Pull Shark | Triggered with two authored pull requests merged into `main`. |
+| Quickdraw | Earned with a GitHub issue opened and closed in 16 seconds. |
+| YOLO | Earned with a documentation-only pull request merged without review. |
+| Pull Shark | Four authored pull requests merged into `main`; waiting for GitHub display. |
 
 ## Operating Notes
 
