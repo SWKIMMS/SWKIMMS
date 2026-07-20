@@ -51,13 +51,6 @@ building   interaction ideas first, usable prototypes next
 - Studying HCI: interaction design, usability, accessibility, and user-centered evaluation.
 - Building web/app prototypes to make interaction ideas concrete and testable.
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SWKIMMS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="SWKIMMS GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWKIMMS&layout=compact&theme=tokyonight&hide_border=true" alt="SWKIMMS top languages" />
-</p>
-
 ## Achievement Track
 
 | Achievement | Status |
