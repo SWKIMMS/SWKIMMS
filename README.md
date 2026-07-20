@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,45:2563EB,100:22C55E&text=Minss%20%7C%20HRI%20%26%20HCI&fontColor=F8FAFC&fontSize=42&fontAlignY=34&desc=Human-Centered%20Interaction%20%2F%20Web%20%26%20App%20Prototyping&descAlignY=58&animation=fadeIn" alt="Minss profile banner" />
+  <img src="./assets/profile-banner.svg" alt="Minss profile banner" />
 </p>
 
 <p align="center">
