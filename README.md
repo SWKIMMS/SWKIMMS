@@ -1,76 +1,74 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=F0F6FC&text=Minss&height=120&fontSize=48&desc=HRI%20%C2%B7%20HCI%20%C2%B7%20Web%2FApp%20Development&descAlignY=75&descAlign=50&descSize=16"
-    alt="Minss profile header"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,45:2563EB,100:22C55E&text=Minss%20%7C%20HRI%20%26%20HCI&fontColor=F8FAFC&fontSize=42&fontAlignY=34&desc=Human-Centered%20Interaction%20%2F%20Web%20%26%20App%20Prototyping&descAlignY=58&animation=fadeIn" alt="Minss profile banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HRI-0D1117?style=flat-square&logoColor=white" alt="HRI" />
-  <img src="https://img.shields.io/badge/HCI-161B22?style=flat-square&logo=figma&logoColor=white" alt="HCI" />
-  <img src="https://img.shields.io/badge/Web%20%2F%20App%20Dev-21262D?style=flat-square&logo=react&logoColor=white" alt="Web and app development" />
+  <a href="https://github.com/SWKIMMS"><img src="https://img.shields.io/badge/GitHub-SWKIMMS-181717?style=for-the-badge&logo=github" alt="GitHub profile badge" /></a>
+  <img src="https://img.shields.io/badge/Focus-HRI%20%2F%20HCI-2563EB?style=for-the-badge" alt="HRI and HCI focus badge" />
+  <img src="https://img.shields.io/badge/Mode-Human--Centered-22C55E?style=for-the-badge" alt="Human-centered mode badge" />
+  <img src="https://img.shields.io/badge/Build-Web%20%2F%20App%20Dev-F59E0B?style=for-the-badge" alt="Web and app development badge" />
 </p>
+
+## About
+
+I am interested in how people understand, trust, and interact with intelligent
+or interactive systems. My main focus is HRI and HCI, with web and app
+development as a way to turn ideas into usable prototypes.
+
+```txt
+focus      HRI / HCI / web and app development
+style      human-centered, structured, quietly polished
+building   interaction ideas first, usable prototypes next
+```
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+## Featured Builds
+
+| Project | What it shows |
+| --- | --- |
+| [erica-esports-arena](https://github.com/SWKIMMS/erica-esports-arena) | Next.js event portal with tournament pages, admin flows, and a strong visual system. |
+| [saju-mystic-mvp](https://github.com/SWKIMMS/saju-mystic-mvp) | Interactive Korean saju MVP with typed calculation flows, Prisma storage, tests, and a polished UI. |
+| [lotto-stat-site](https://github.com/SWKIMMS/lotto-stat-site) | Static statistics dashboard with automated lottery draw data updates. |
+| [next-netlify-platform-starter](https://github.com/SWKIMMS/next-netlify-platform-starter) | Next.js and Netlify starter exploring deployable web app foundations. |
+
+## Current Track
+
+- Studying HRI: feedback, trust, collaboration, and human-robot interaction patterns.
+- Studying HCI: interaction design, usability, accessibility, and user-centered evaluation.
+- Building web/app prototypes to make interaction ideas concrete and testable.
+
+## GitHub Activity
 
 <p align="center">
-  <samp>human-centered interaction · thoughtful prototypes · readable systems</samp>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SWKIMMS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="SWKIMMS GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWKIMMS&layout=compact&theme=tokyonight&hide_border=true" alt="SWKIMMS top languages" />
 </p>
 
----
+## Achievement Track
 
-### signal
+| Achievement | Status |
+| --- | --- |
+| Quickdraw | Earned with a GitHub issue opened and closed in 16 seconds. |
+| YOLO | Earned with a documentation-only pull request merged without review. |
+| Pull Shark | Four authored pull requests merged into `main`; waiting for GitHub display. |
 
-```txt
-focus       HRI / HCI / web and app development
-style       minimal, structured, human-centered
-status      learning, prototyping, documenting
-principle   design technology around people
-```
+## Operating Notes
 
-### currently
-
-I am interested in how people understand, control, and build trust with interactive systems.
-My current center of gravity is HRI and HCI, with web/app development as a way to prototype ideas into usable interfaces.
-
-```txt
-HRI              human-robot interaction / feedback / trust / collaboration
-HCI              interaction design / usability / accessibility / user research
-development      web apps / app prototypes / interfaces / tooling
-engineering      readable code / thoughtful constraints / steady iteration
-```
-
-### toolbox
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Prototyping-111827?style=flat-square&logo=readme&logoColor=white" alt="Prototyping" />
-</p>
-
-### operating notes
-
-```txt
-start from people
-prototype the interaction
-keep the interface quiet
-document behavior and tradeoffs
-```
-
----
-
-<p align="center">
-  <samp>HRI · HCI · web/app prototypes soon · @SWKIMMS</samp>
-</p>
-
-<!--
-Profile setup notes:
-
-1. Create a public repository named exactly `SWKIMMS`.
-2. Put this file at the repository root as `README.md`.
-3. After publishing 2-3 polished projects, add a `Selected Work` section above Direction.
-4. Keep badges minimal. The strongest signal should be shipped work, clear README files, and good repo descriptions.
-5. Avoid publishing a personal email here unless you intentionally want it public.
--->
+- Start from people, not features.
+- Prototype the interaction before polishing the surface.
+- Keep interfaces quiet, readable, and easy to revisit.
+- Document behavior, assumptions, and tradeoffs.
